@@ -5,6 +5,8 @@ export default function App() {
       <Routes>
         <Route/>
       </Routes>
+
+      console.log(salom);
     </div>
   );
 }
